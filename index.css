@@ -3,6 +3,11 @@ body {
     background-color: #807d7d;
     margin: 0;
     padding: 0;
+    color: black;
+  }
+  .shop{
+    color: white;
+    text-decoration: underline;
   }
   
   .container {
@@ -12,13 +17,14 @@ body {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    color: #f9f9f9;
+    color: #0a0a0a;
   }
   
   #shopping-list {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
+    
   }
   
   #shopping-list input[type="text"] {
@@ -27,6 +33,7 @@ body {
     font-size: 16px;
     border: 1px solid rgb(197, 193, 193);
     border-radius: 4px;
+    
   }
   
   #shopping-list button {
