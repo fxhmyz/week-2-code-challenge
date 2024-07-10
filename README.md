@@ -1,7 +1,4 @@
 # week-2-code-challenge
-Certainly! Here's a README template you can use for your JavaScript shopping list application:
-
----
 
 # Shopping List Application
 
